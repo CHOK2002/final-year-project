@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997122179222397674/d31d18bc33d24b938547f3b03b2cf6d6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '997122179222397674'
+lifecycle_stage: active
+run_id: d31d18bc33d24b938547f3b03b2cf6d6
+run_name: RandomForestClassifier_v3
+run_uuid: d31d18bc33d24b938547f3b03b2cf6d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719889317641
+status: 1
+tags: []
+user_id: ChokJoe

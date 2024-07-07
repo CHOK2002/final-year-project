@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997122179222397674/6fe9855b5f2746e6a68f1a553e2a9408/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '997122179222397674'
+lifecycle_stage: active
+run_id: 6fe9855b5f2746e6a68f1a553e2a9408
+run_name: SVC_v5
+run_uuid: 6fe9855b5f2746e6a68f1a553e2a9408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720005324356
+status: 1
+tags: []
+user_id: ChokJoe
