@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909337231898474234/232d7c8b5e164bc6b350b2f63a05d117/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '909337231898474234'
+lifecycle_stage: active
+run_id: 232d7c8b5e164bc6b350b2f63a05d117
+run_name: LatentDirichletAllocation_v4
+run_uuid: 232d7c8b5e164bc6b350b2f63a05d117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721465492025
+status: 1
+tags: []
+user_id: ChokJoe

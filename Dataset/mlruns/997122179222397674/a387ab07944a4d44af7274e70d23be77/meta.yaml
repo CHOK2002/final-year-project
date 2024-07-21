@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997122179222397674/a387ab07944a4d44af7274e70d23be77/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '997122179222397674'
+lifecycle_stage: active
+run_id: a387ab07944a4d44af7274e70d23be77
+run_name: KNeighborsClassifier_v5
+run_uuid: a387ab07944a4d44af7274e70d23be77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720007886579
+status: 1
+tags: []
+user_id: ChokJoe

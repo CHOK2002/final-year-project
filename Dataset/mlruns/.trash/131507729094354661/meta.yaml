@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/131507729094354661
+creation_time: 1721378330079
+experiment_id: '131507729094354661'
+last_update_time: 1721458091110
+lifecycle_stage: deleted
+name: topic-modelling-lda
+tags: {}

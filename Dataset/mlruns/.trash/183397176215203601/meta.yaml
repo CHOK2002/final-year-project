@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/183397176215203601
+creation_time: 1720152393731
+experiment_id: '183397176215203601'
+last_update_time: 1720358427293
+lifecycle_stage: deleted
+name: sentiment-analysis-transformer
+tags: {}

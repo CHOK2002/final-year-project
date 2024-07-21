@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/793286308474494994
+creation_time: 1720358409638
+experiment_id: '793286308474494994'
+last_update_time: 1720358435775
+lifecycle_stage: deleted
+name: sentiment-analysis-kmeans
+tags: {}

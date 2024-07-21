@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/909337231898474234/7b0dae71d4e4491abe3c635fa6211297/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '909337231898474234'
+lifecycle_stage: active
+run_id: 7b0dae71d4e4491abe3c635fa6211297
+run_name: TruncatedSVD_v1
+run_uuid: 7b0dae71d4e4491abe3c635fa6211297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721466247751
+status: 1
+tags: []
+user_id: ChokJoe

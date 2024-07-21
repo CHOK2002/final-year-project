@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/563721277544572996/f30522bc31284eb88c5f7aceb0321706/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '563721277544572996'
+lifecycle_stage: active
+run_id: f30522bc31284eb88c5f7aceb0321706
+run_name: MultinomialNB_v1
+run_uuid: f30522bc31284eb88c5f7aceb0321706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720361980110
+status: 1
+tags: []
+user_id: ChokJoe
